@@ -2,7 +2,7 @@
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
-## Developed By: R.KAVI KEERTHANA
+## Developed By: R KAVI KEERTHANA
 ## Reg.NO: 212222100022
 # AIM:
 To practice Linux Commands and Shell Scripting
